@@ -1,0 +1,96 @@
+.container {
+	width:990px;
+	height:auto;
+	margin:auto;
+	
+	
+}
+.Call1 {
+	
+float:right;
+font-family:arial; 
+font-size:33pts;
+color:gray;
+}
+ul {
+	list-style-type:none;
+	padding:0;
+	overflow:hidden;
+	background-color:black;
+	width:990pts;
+	height:57pts;
+	font-family:arial;
+	text-align:center;
+
+}
+li {
+	float:left;
+	font-family:arial;
+	font-size:28px;
+	padding-right:100px;
+	
+	
+
+	
+}
+li a {
+	display:block;
+	color:white;
+	text-align:center;
+	padding:14px 15px;
+	text-decoration:none;	
+	
+}
+
+li a:hover {
+	background-color:orange;
+	
+	
+}
+.active {
+	background-color:red;
+	
+}
+hr {
+	
+	width:990px;
+}
+.con {
+	float:left;
+	
+	
+}
+.conningtext1 {
+max-width:310;	
+font-size:13pts;
+}
+	.con2 {
+		float:left;
+		margin-left:30px;
+	}
+.conningtext2 {
+max-width:310;
+font-size:13pts;
+
+}	
+.con3 {
+	float:left;
+	margin-left:30px;
+	
+}
+.conningtext3 {
+	max-width:310;
+	font-size:13pts;
+	
+}
+.About {
+font-family:arial;
+font-size:34pts;
+color:gray;	
+	
+}
+.Simple {
+	font-family:arial;
+	font-size:20pts;
+	color:gray;
+}
